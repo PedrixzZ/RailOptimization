@@ -1,4 +1,4 @@
-name: Publish Fabric Artifacts
+name: Publish Fabric Artifactss
 
 on:
   release:
